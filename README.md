@@ -1,5 +1,5 @@
 # MLP
-A numpy implementations for multilayer MLP
+A numpy implementations for MLP
 
 # Settings
 Using these steps to prepare.
