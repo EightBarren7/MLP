@@ -2,6 +2,8 @@
 A numpy implementations for MLP
 
 The instruction to the code can be found in [link](https://zhuanlan.zhihu.com/p/501743440)
+
+The mnist dataset can be downloaded from the [link](https://pan.baidu.com/s/1Gns9LjIZunoug7cMWvkPuQ?pwd=dotn)
 # Settings
 Using these steps to prepare.
 
