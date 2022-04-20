@@ -1,6 +1,7 @@
 # MLP
 A numpy implementations for MLP
 
+The instruction to the code can be found in [link](https://zhuanlan.zhihu.com/p/501743440)
 # Settings
 Using these steps to prepare.
 
