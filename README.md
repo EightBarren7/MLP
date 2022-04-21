@@ -13,7 +13,7 @@ All dependencies can be installed into a conda environment with the provided env
 git clone https://github.com/EightBarren7/MLP.git
 cd MLP
 ```
-## 1 Create conda environment and activate
+## 2 Create conda environment and activate
 ```
 conda env create -f environment.yaml
 conda activate MLP
